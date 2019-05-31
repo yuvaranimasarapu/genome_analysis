@@ -14,4 +14,4 @@ module load bwa/0.7.17
 
 #My commands
 bwa mem /home/yuvarani/genomeanalysis/pacbio/pacbio_results/pacbio_assembly_scaffold6_190423/pacbio_assembly_scaffold6_190423.contigs.fasta \
-/home/yuvarani/genomeanalysis/illumina/illumina_scaffold61P_rd.fastq.gz /home/ylvjon/genomeanalysis/illumina/illumina_scaffold62P_rd.fastq.gz > /home/yuvarani/genomeanalysis/analysis/bwa_res.sam
+/home/yuvarani/genomeanalysis/illumina/illumina_scaffold61P_rd.fastq.gz /home/yuvarani/genomeanalysis/illumina/illumina_scaffold62P_rd.fastq.gz > /home/yuvarani/genomeanalysis/analysis/bwa_res.sam
