@@ -1,0 +1,7 @@
+#load packages
+module load bioinfo-tools
+module load bowtie2
+
+bowtie2-build /home/yuvarani/genomeanalysis/analysis/pilon_improved_scaffold6.fasta /home/yuvarani/genomeanalysis/analysis/bowtie2onpilon
+
+bowtie2index /home/yuvarani/genomeanalysis/analysis/bowtie2onpilon /home/yuvarani/genomeanalysis/analysis/bowtie2_results_onpilon_indexed
