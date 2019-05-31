@@ -1,4 +1,4 @@
-This is mt repository for the Lab project in the course Genome Analysis spring 2019 at Uppsala University. I worked with Durian Fruit genome.
+This is my repository for the Lab project in the course Genome Analysis spring 2019 at Uppsala University. I worked with Durian Fruit genome.
 
 The following is the structure of my repository:
 
